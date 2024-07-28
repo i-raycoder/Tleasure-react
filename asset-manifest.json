@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tleasure-react/static/css/main.9d650b70.css",
+    "main.js": "/Tleasure-react/static/js/main.6707b6f7.js",
+    "static/media/idea.png": "/Tleasure-react/static/media/idea.efa7595f7a781e18d58a.png",
+    "index.html": "/Tleasure-react/index.html",
+    "main.9d650b70.css.map": "/Tleasure-react/static/css/main.9d650b70.css.map",
+    "main.6707b6f7.js.map": "/Tleasure-react/static/js/main.6707b6f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d650b70.css",
+    "static/js/main.6707b6f7.js"
+  ]
+}
